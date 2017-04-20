@@ -10,6 +10,7 @@ public:
 	Arrow(); // Create a drawable arrow 
 
 
+
 private:
 	// These will change based on sfml library 
 	// They are just holders to understand requirements, All or none of the fields can be there
