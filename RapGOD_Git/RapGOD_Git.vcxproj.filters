@@ -24,10 +24,10 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\RapGame_V1\makeWindow.h">
+    <ClInclude Include="Arrow.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\RapGame_V1\Arrow.h">
+    <ClInclude Include="makeWindow.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
